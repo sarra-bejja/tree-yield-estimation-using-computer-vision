@@ -1,0 +1,40 @@
+# Python Dependencies for PFE Tree Yield Estimation Project
+# Install with: pip install -r requirements.txt
+
+# Core Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Transformers (for Vision Transformer)
+transformers>=4.30.0
+huggingface-hub>=0.14.0
+
+# Object Detection
+ultralytics>=8.0.0
+roboflow>=1.10.0
+
+# Data Processing & ML
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+scikit-image>=0.19.3
+opencv-python>=4.7.0
+
+# Data Quality
+cleanvision>=0.1.0
+pycocotools>=2.0.6
+
+# Visualization
+matplotlib>=3.7.0
+tensorboard>=2.12.0
+seaborn>=0.12.0
+
+# Jupyter & Progress
+jupyter>=1.0.0
+ipython>=8.10.0
+tqdm>=4.65.0
+
+# Optional: For local GPU support (uncomment if needed)
+# tensorflow>=2.12.0  # If using TensorFlow models
+# jax>=0.3.0  # If using JAX accelerated computing
