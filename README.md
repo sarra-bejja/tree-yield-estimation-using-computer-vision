@@ -10,6 +10,8 @@ This project implements multiple deep learning and machine learning approaches t
 **Technologies:** Python, PyTorch,matplotlib,cleanvision, scikit-learn, Transformers, YOLOv11  
 **Platform:** Google Colab Pro  
 **Data Annotation:** Roboflow
+![Project Demo](imagesTree/exp1.png)
+
 
 ---
 
