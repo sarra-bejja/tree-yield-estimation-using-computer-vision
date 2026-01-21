@@ -30,14 +30,13 @@ This project implements multiple deep learning and machine learning approaches t
 ## 📁 Project Structure
 
 ```
-PFE-ModelsCode-SarraBejja/
+Models-Code
 ├── CNNmodel.ipynb                       # ResNet18 CNN regression
 ├── VITsegmentation.ipynb               # Vision Transformer regression
 ├── YoloModel.ipynb                     # YOLOv11 object detection
 ├── RandomForestModel.ipynb             # Random Forest with GLCM features
 ├── CnnSegmentation.ipynb               # Semantic segmentation (COCO format)
 ├── RandomForestModelSegmentation.ipynb # RF on segmented images
-└── README.md                           # This file
 ```
 
 ### Google Drive Directory Structure
